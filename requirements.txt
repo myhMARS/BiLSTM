@@ -1,0 +1,6 @@
+torch~=2.2.2+cu121
+numpy~=1.26.3
+pandas~=2.2.2
+rich~=13.7.1
+scikit-learn~=1.4.2
+torchinfo~=1.8.0
