@@ -2,5 +2,5 @@ torch~=2.6.1
 numpy~=1.26.3
 pandas~=2.2.2
 rich~=13.7.1
-scikit-learn~=1.4.2
+scikit-learn~=1.6.1
 torchinfo~=1.8.0
